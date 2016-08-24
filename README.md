@@ -13,3 +13,4 @@ This handwriting font feels carefree and open to me with the bubbly, rounded edg
 - Improve README.md
 - Fix glyphs, anchors and components
 - Run fonts through Font bakery and Ship fonts
+- Add TRADEMARKS.md
