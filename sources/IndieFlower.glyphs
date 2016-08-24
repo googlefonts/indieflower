@@ -18531,6 +18531,38 @@ value = (
 "0",
 "0"
 );
+},
+{
+name = typoDescender;
+value = -488;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 971;
+},
+{
+name = typoAscender;
+value = 971;
+},
+{
+name = hheaDescender;
+value = -488;
+},
+{
+name = winDescent;
+value = 488;
+},
+{
+name = winAscent;
+value = 971;
 }
 );
 instanceInterpolations = {
