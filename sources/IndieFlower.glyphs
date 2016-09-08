@@ -1,7 +1,7 @@
 {
 .appVersion = "919";
 DisplayStrings = (
-"/quotedblbase n/quotedblleft n/quotedblright n/quoteleft n/quoteright n/quotesinglbase n,"
+"\U00A35.60"
 );
 copyright = "Copyright (c) 2010, The Indie Flower Authors (kimberlygeswein.com)";
 customParameters = (
@@ -20287,7 +20287,7 @@ unicode = 20B9;
 {
 color = 4;
 glyphname = sterling;
-lastChange = "2016-09-07 22:00:13 +0000";
+lastChange = "2016-09-08 09:53:23 +0000";
 layers = (
 {
 background = {
@@ -20388,6 +20388,29 @@ nodes = (
 "172 82 OFFCURVE",
 "205 75 CURVE",
 "128 30 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"458 454 OFFCURVE",
+"127 427 OFFCURVE",
+"127 379 CURVE SMOOTH",
+"127 359 OFFCURVE",
+"146 360 OFFCURVE",
+"165 360 CURVE SMOOTH",
+"202 360 OFFCURVE",
+"240 370 OFFCURVE",
+"277 374 CURVE SMOOTH",
+"315 378 OFFCURVE",
+"373 390 OFFCURVE",
+"522 390 CURVE SMOOTH",
+"550 390 OFFCURVE",
+"579 394 OFFCURVE",
+"579 426 CURVE SMOOTH",
+"579 438 OFFCURVE",
+"569 454 OFFCURVE",
+"556 454 CURVE SMOOTH"
 );
 }
 );
