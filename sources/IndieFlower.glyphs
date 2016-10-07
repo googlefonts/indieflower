@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "925";
 copyright = "Copyright 2010 The Indie Flower Authors (kimberlygeswein.com)";
 customParameters = (
 {
@@ -94,11 +94,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1117;
+value = 994;
 },
 {
 name = typoAscender;
-value = 1117;
+value = 994;
 },
 {
 name = hheaDescender;
