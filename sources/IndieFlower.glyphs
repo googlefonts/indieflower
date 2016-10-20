@@ -1,5 +1,5 @@
 {
-.appVersion = "925";
+.appVersion = "926";
 copyright = "Copyright 2010 The Indie Flower Authors (kimberlygeswein.com)";
 customParameters = (
 {
@@ -82,7 +82,7 @@ capHeight = 693;
 customParameters = (
 {
 name = typoDescender;
-value = -488;
+value = -494;
 },
 {
 name = typoLineGap;
@@ -94,15 +94,15 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 994;
+value = 1055;
 },
 {
 name = typoAscender;
-value = 994;
+value = 1055;
 },
 {
 name = hheaDescender;
-value = -488;
+value = -494;
 },
 {
 name = winDescent;
